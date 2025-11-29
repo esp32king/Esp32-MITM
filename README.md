@@ -41,7 +41,7 @@ User enters WiFi password → Saved
 
 Then it forces Instagram login page
 
-After login → User gets normal internet
+After login → User gets normal internet ✔️ 
 ```
 
 ### 📡 2. DNS Live Intercept
