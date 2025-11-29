@@ -13,13 +13,21 @@ Created by ❤️ Krishna UPX61
 This project turns your ESP32 into a powerful WiFi portal system with:
 
 ✨ Captive Portal (auto-opens on mobile & laptop)
+
 ✨ WiFi Password Popup → Instagram Login Page
+
 ✨ Credentials Logging (WiFi + Instagram)
+
 ✨ DNS Domain Logger (live visited domain monitor)
+
 ✨ Admin Panel with delete logs + credentials table
+
 ✨ BLE Keyboard Auto-Type (opens Instagram automatically)
+
 ✨ Real-time redirect for all devices
+
 ✨ Beautiful UI + Neon Effects
+
 ✨ Super fast, optimized, no lag
 
 ### 🌐 Features
