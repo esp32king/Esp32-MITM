@@ -146,21 +146,21 @@ DNS tracking starts + internet unlock
 
 ### 👨‍💻 Admin Panel Preview
 
-Saved WiFi passwords
+- ✔️ Saved WiFi passwords
 
-Saved Instagram users/passwords
+- ✔️ Saved Instagram users/passwords
 
-Recent visited websites
+- ✔️ Recent visited websites
 
-Delete row option
+- ✔️ Delete row option
 
-Clear DNS logs
+- ✔️ Clear DNS logs
 
-Everything is neat & responsive.
+- ✔️ Everything is neat & responsive.
 
-📘 BLE Automation
+- ✔️ 📘 BLE Automation
 
-Once BLE device connects:
+- ✔️ Once BLE device connects:
 
 Alt+Tab → Open browser
 
