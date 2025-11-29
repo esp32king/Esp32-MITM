@@ -32,7 +32,7 @@ This project turns your ESP32 into a powerful WiFi portal system with:
 
 ### 🌐 Features
 🔐 1. Captive Portal Login Flow
-
+```
 When any device connects to your WiFi:
 
 Auto popup → "WiFi Router Error"
@@ -42,6 +42,7 @@ User enters WiFi password → Saved
 Then it forces Instagram login page
 
 After login → User gets normal internet
+```
 
 ### 📡 2. DNS Live Intercept
 
