@@ -15,8 +15,6 @@ DNS intercepting + Captive portals + BLE HID (Combo)
 ```
 ### ⭐ Overview
 
-[![Video](https://img.youtube.com/vi/cJmxkM5E3FE/maxresdefault.jpg)](https://youtube.com/shorts/cJmxkM5E3FE)
-
 This project turns your ESP32 into a powerful WiFi portal system with:
 
 ✨ Captive Portal (auto-opens on mobile & laptop)
@@ -198,3 +196,5 @@ GitHub: github.com/esp32king
 ### ⭐ Give a Star
 
 If this project helped you → Give it a ⭐ on GitHub! 🙌
+
+[![Video](https://img.youtube.com/vi/cJmxkM5E3FE/maxresdefault.jpg)](https://youtube.com/shorts/cJmxkM5E3FE)
