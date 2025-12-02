@@ -13,6 +13,22 @@ LIVE Intercepting..
 ```
 DNS intercepting + Captive portals + BLE HID (Combo)
 ```
+
+### Code Flash
+Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
+
+### 2nd Step
+<a href="https://github.com/esp32king/Esp32-WiFi-Sniffer/releases/download/ESP32-WiFi-Sniffer/bootloader.bin">bootloader.bin</a> → 0x1000
+
+<a href="https://github.com/esp32king/Esp32-WiFi-Sniffer/releases/download/ESP32-WiFi-Sniffer/partitions.bin">partitions.bin</a> → 0x8000
+
+<a href="https://github.com/esp32king/Esp32-WiFi-Sniffer/releases/download/ESP32-WiFi-Sniffer/bootloader.bin">Esp32-wifi-sniffer.bin</a> → 0x10000
+
+After done connect phone/PC with esp32 WiFi ( Your ESP32 ) name
+Then visit 👉 <a href="http://192.168.4.1">http://192.168.4.1</a>
+
+### 2nd Step
+
 ### ⭐ Overview
 
 This project turns your ESP32 into a powerful WiFi portal system with:
