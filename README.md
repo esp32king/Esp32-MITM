@@ -24,7 +24,7 @@ Flash Here 👉 <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a
 
 <a href="https://github.com/esp32king/Esp32-WiFi-Sniffer/releases/download/ESP32-WiFi-Sniffer/Esp32-wifi-sniffer.bin">Esp32-wifi-sniffer.bin</a> → 0x10000
 
-After done connect phone/PC with esp32 WiFi ( Your ESP32 ) name
+After flash connect phone/PC with esp32 WiFi ( Your ESP32 ) name
 Then visit 👉 <a href="http://192.168.4.1">http://192.168.4.1</a>
 
 ### 2nd Step
